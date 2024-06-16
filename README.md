@@ -1,2 +1,2 @@
 # login_mongodb
-Login y register usando mongoDB
+Se debe tener instalado MongoDBCompass para que la web funcione
